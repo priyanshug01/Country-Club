@@ -1,0 +1,24 @@
+.about-section, .amenities-section, .testimonials-section, .membership-section {
+    padding: 7rem 0;
+}
+
+.about-section {
+    background-color: $grey-light-1;
+}
+
+.amenities-section {
+    background-color: $white;
+}
+
+.testimonials-section {
+    position: relative;
+}
+
+.membership-section {
+    background-color: $grey-light-1;
+}
+
+.contact-section {
+    background-color: $white;
+    padding-top: 5rem;
+}
